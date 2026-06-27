@@ -290,3 +290,9 @@ Unknown columns are silently ignored. `Circle` is optional.
 - Add a date-wise CSR trend line alongside the failure trend in the dashboard
 - Support multi-day dataset aggregation across multiple uploaded files
 - Add a configuration file (`.ini` or `.json`) to persist user filter preferences
+
+---
+
+## Author
+
+**Krishvika**
