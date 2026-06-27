@@ -1,4 +1,4 @@
-# Voice Call Failure Analytics System
+# Off-Net Voice Call Failure Analytics System
 A modular telecom analytics project that parses ISUP cause-code datasets,computes call failure KPIs,identifies major failure cause codes and generates rule-based network recommendations.
 The C++17 backend performs all analytics while a Python Streamlit dashboard visualizes KPIs, operator performance, trends, and recommendations.
 
