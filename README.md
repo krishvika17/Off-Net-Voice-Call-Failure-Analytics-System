@@ -24,12 +24,13 @@ Developed during a Practice School internship at Reliance Jio after the second y
   - CSR
   - Failure Rate
 
-- Identify major cause codes above a configurable threshold
-- Generate operator-wise statistics
-- Generate daily failure trends
-- Identifies major trunk group connectivity contributing to failures
-- Generate rule-based recommendations using ISUP cause codes
-- Interactive Streamlit dashboard
+• Overflow
+  - Identify major cause codes above a configurable threshold
+  - Generate operator-wise statistics
+  - Generate daily failure trends
+  - Identifies major trunk group connectivity contributing to failures
+  - Generate rule-based recommendations using ISUP cause codes
+  - Interactive Streamlit dashboard
 ---
 
 ## Folder Structure
