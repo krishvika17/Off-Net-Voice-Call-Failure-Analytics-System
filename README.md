@@ -24,12 +24,12 @@ Developed during a Practice School internship at Reliance Jio after the second y
   - CSR
   - Failure Rate
 
-• Identify major cause codes above a configurable threshold
-• Generate operator-wise statistics
-• Generate daily failure trends
-• Identifies major trunk group connectivity contributing to failures
-• Generate rule-based recommendations using ISUP cause codes
-• Interactive Streamlit dashboard
+- Identify major cause codes above a configurable threshold
+- Generate operator-wise statistics
+- Generate daily failure trends
+- Identifies major trunk group connectivity contributing to failures
+- Generate rule-based recommendations using ISUP cause codes
+- Interactive Streamlit dashboard
 ---
 
 ## Folder Structure
@@ -60,9 +60,9 @@ Voice-Call-Failure-Analytics-System/
 │   └── app.py                   # Streamlit dashboard
 │
 ├── data/                        # Optional sample datasets
-├── output/                      # Reserved for future file exports
 ├── docs/                        # Architecture and design notes
-└── tests/                       # Unit test stubs
+├── LICENSE
+
 ```
 
 ---
